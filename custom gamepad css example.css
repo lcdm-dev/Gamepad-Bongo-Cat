@@ -1,10 +1,10 @@
 /*
--How to use Custom CSS for the Gamepad Viewer-
-http://mrmcpowned.com/gamepad
+-How to use Custom CSS for the GamePad Viewer-
+https://gamepadviewer.com/
 
 Enabling a custom CSS is as easy as adding &css=[url to css file]
 to the end of the url like so:
-http://mrmcpowned.com/gamepad?p=1&css=https://gist.github.com/anonymous/526491dc02014099cd14/raw/d7bb0477ba984f794497f3f0f82cb33484dc7889/ps3.css
+https://gamepadviewer.com/?p=1&css=https://gist.github.com/anonymous/526491dc02014099cd14/raw/d7bb0477ba984f794497f3f0f82cb33484dc7889/ps3.css
 
 If you're going to be using custom CSS for the gamepad viewer
 to design your own skin, we're assuming you have some sort of
@@ -31,7 +31,7 @@ skin on the Gamepad viewer. You can scroll below and read the comments to
 get an understanding of how the styling works and whatnot. Happy skinning!
 
 P.S. If you use this tool often and would like to 'buy me a coffee' you can
-do so via my Imraising page: https://imraising.tv/u/mrmcpowned
+do so via my paypal: https://paypal.me/mrmcpowned
 
 */
 
