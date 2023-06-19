@@ -48,7 +48,7 @@ do so via my paypal: https://paypal.me/mrmcpowned
     width: 612px;
 }
 .custom.disconnected { /* This class shows an image when the controller is disconnected */
-    background: url(ps3-assets/base-disconnect.png);
+    background: url(https://i.imgur.com/UuB798M.png);
 }
 /* This hides the controller's button when disconnected so only the background image remains */ 
 .custom.disconnected div {
