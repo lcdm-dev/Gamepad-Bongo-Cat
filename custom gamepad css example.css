@@ -43,12 +43,12 @@ do so via my paypal: https://paypal.me/mrmcpowned
     and you can observe it as an example. The sticks, buttons, and directional arrows are missing
     because their appropriate elements will be incorperated when their styling is defined below.
     The entirity of the skin's visual styling is done via background images and CSS sprites. */ 
-    background: url(https://imgur.com/UuB798M); 
+    .custom.background: url(https://imgur.com/UuB798M); 
     height: 354px;
     width: 612px;
 }
 .custom.disconnected { /* This class shows an image when the controller is disconnected */
-    background: url(https://i.imgur.com/UuB798M.png);
+    .custom.background: url(https://i.imgur.com/UuB798M.png);
 }
 /* This hides the controller's button when disconnected so only the background image remains */ 
 .custom.disconnected div {
